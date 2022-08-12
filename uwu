@@ -1,0 +1,4 @@
+>=sys-kernel/gentoo-sources-5.18.12 ~amd64
+>=net-libs/webkit-gtk-2.36.4::gentoo ~amd64
+>=app-admin/xkcdpass-1.19.3::gentoo ~amd64
+>=app-editors/vscodium-1.69.0::gentoo ~amd64
