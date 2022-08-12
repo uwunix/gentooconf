@@ -1,0 +1,7 @@
+media-libs/libsndfile minimal
+net-libs/webkit-gtk -gnome-keyring -geolocation -jumbo-build 
+media-sound/easyeffects calf
+media-sound/fluidsynth jack threads
+media-plugins/calf experimental jack
+
+dev-qt/qtwidgets gtk
